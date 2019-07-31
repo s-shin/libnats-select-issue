@@ -1,0 +1,9 @@
+*
+!CMakeLists.txt
+!src
+!deps
+!docker-data
+**/build*
+**/cmake-build*
+**/tmp*
+!build_deps.sh
